@@ -23,4 +23,4 @@ Project for hackathon2020
 
 Самая большая ценность этого бранча - картинка с проработанной структурой и ядром.
 
-![Схема](//github.com/BabrIrk/babrikrosatom/blob/master/system.png)
+![Схема](//p-ams1.pcloud.com/DLZe9rdoBZwxybCDZF3sy7ZZznbx37Z3VZZ0e5ZXZ67m7ZJpZZZl6vcTjfmJOHPDuDVa0bRRV41tqK7/th-25023749745-2048x1152.png)
