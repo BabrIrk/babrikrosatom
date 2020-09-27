@@ -22,3 +22,5 @@ Project for hackathon2020
 но до этого еще сотни строк кода.
 
 Самая большая ценность этого бранча - картинка с проработанной структурой и ядром.
+
+![](//github.com/BabrIrk/babrikrosatom/raw/master/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0.png)
